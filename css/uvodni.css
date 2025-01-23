@@ -33,7 +33,6 @@ header p {
 
 /* Nastavení hlavní části */
 main {
-    background-color: cyan;
     background-repeat: no-repeat;
     background-size: cover;
     border: cyan;
@@ -78,7 +77,7 @@ main {
 }
 
 main {
-    color: black;
+    color: cyan;
 }
 
 main a {
@@ -93,7 +92,7 @@ main a {
 }
 
 .flex-container > div {
-    background-color: gray;
+    background-color: cyan;
     margin: 10px;
     padding: 20px;
     border-radius: 10px;
